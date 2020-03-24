@@ -21,9 +21,7 @@ public class CountingTriangles {
                     }
                 }
             }
-
             System.out.println(paws);
         }
-
     }
 }
